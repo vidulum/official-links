@@ -13,7 +13,8 @@ __OFFICIAL VIDULUM LINKS__
 **Premine Current Address**: <https://explorer.vidulum.app/address/v1QpHnVKRBQvwmD4ZsmXyYBFRa48Sx1qzRJ>
 
 __COMMUNITY CHAT__
-**Discord**: Already here :)
+**Official Chat**: <https://chat.vidulum.app>
+**Discord**: <https://discord.gg/bF2P5bV>
 **Reddit**: <https://www.reddit.com/r/VidulumApp>
 
 __EXCHANGES__
