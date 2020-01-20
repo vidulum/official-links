@@ -20,6 +20,7 @@ __COMMUNITY CHAT__
 __EXCHANGES__
 **STEX**: <https://app.stex.com/en/trade/pair/BTC/VDL>
 **Crex24**: <https://crex24.com/exchange/VDL-BTC>
+**InstaSwap**: <https://instaswap.io>
 
 __WALLETS__
 **GitHub**: <https://github.com/vidulum/>
